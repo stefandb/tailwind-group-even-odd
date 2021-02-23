@@ -1,0 +1,28 @@
+{
+  "name": "tailwind-group-even-odd",
+  "version": "1.0.0",
+  "description": "plugin for tailwind to style sub element in even or odd element",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefandb/tailwind-group-even-odd.git"
+  },
+  "keywords": [
+    "tailwind",
+    "group",
+    "even",
+    "odd"
+  ],
+  "author": "Stefan de Bruin",
+  "bugs": {
+    "url": "https://github.com/stefandb/tailwind-group-even-odd/issues"
+  },
+  "homepage": "https://github.com/stefandb/tailwind-group-even-odd#readme",
+  "devDependencies": {
+    "postcss": "^7.0.35",
+    "tailwindcss": "^1.9.6"
+  },
+  "dependencies": {}
+}
